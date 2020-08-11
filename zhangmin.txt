@@ -1,0 +1,13 @@
+使用虚拟环境zhangmin2
+python phase_corr.py road1.jpg road2.jpg out.jpg
+
+代码中保存时：应该是把数组保存成了图像
+
+
+
+ffmpeg                    4.0
+imageio                   2.6.1  
+numpy                     1.16.5     
+opencv                    3.4.2
+pillow                    6.2.1      
+python                    2.7.15   
